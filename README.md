@@ -1,6 +1,6 @@
 # ConclaveSim: A Multi-Agent Simulation of the Papal Election. [Extended]
 
-> **Authorship.** This extension was developed primarily by **Koen Verlaan** (MSc Computational Science, UvA, 2025) as a group project, building on [NaniHazbolatow/conclave-sim](https://github.com/NaniHazbolatow/conclave-sim). The stance-embedding mechanism, utility-based grouping, parameter controls and Snellius cluster tooling described below are the extension's contribution.
+> Group project, MSc Computational Science (UvA, 2025), extending [NaniHazbolatow/conclave-sim](https://github.com/NaniHazbolatow/conclave-sim). This fork is maintained by Koen Verlaan.
 
 ConclaveSim is an agent-based simulation framework that models the dynamics of papal elections using large language model (LLM) agents. Each cardinal is represented as a generative agent with a unique profile, ideological stance, and conversational memory. Agents participate in group discussions, update their internal stances via LLM-based reflection, and vote in sequential rounds until a two-thirds majority is achieved. The framework enables the study of how informal discussions, strategic alliances, and decentralized negotiation shape formal outcomes in highly constrained institutional settings.
 
